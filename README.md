@@ -15,4 +15,4 @@ switches:
 
 Download Release at:
 
-https://github.com/jorrillamustard/ReplaceCertificates/releases/
+https://github.com/jorrillamustard/ReplaceCertificates/releases/latest
