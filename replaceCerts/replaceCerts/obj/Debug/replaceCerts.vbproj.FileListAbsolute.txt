@@ -1,0 +1,16 @@
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\replaceCerts.exe.config
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\replaceCerts.exe
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\replaceCerts.pdb
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\replaceCerts.xml
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Debug\replaceCerts.Resources.resources
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Debug\replaceCerts.vbproj.GenerateResource.Cache
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Debug\replaceCerts.exe
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Debug\replaceCerts.xml
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Debug\replaceCerts.pdb
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\replaceCerts.exe.manifest
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\replaceCerts.application
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Debug\replaceCerts.exe.manifest
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Debug\replaceCerts.application
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\Microsoft.PowerShell.Commands.Management.Resources.dll
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Debug\System.Management.Automation.dll

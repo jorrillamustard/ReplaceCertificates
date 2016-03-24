@@ -1,0 +1,14 @@
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Release\replaceCerts.exe.config
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Release\replaceCerts.exe
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Release\replaceCerts.pdb
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Release\replaceCerts.xml
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.Resources.resources
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.vbproj.GenerateResource.Cache
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.exe
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.xml
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.pdb
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Release\replaceCerts.exe.manifest
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\bin\Release\replaceCerts.application
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.vbprojResolveAssemblyReference.cache
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.exe.manifest
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\replaceCerts\obj\Release\replaceCerts.application

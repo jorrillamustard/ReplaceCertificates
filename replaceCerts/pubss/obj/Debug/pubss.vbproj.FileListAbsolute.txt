@@ -1,0 +1,9 @@
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\bin\Debug\pubss.exe.config
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\bin\Debug\pubss.exe
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\bin\Debug\pubss.pdb
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\bin\Debug\pubss.xml
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\obj\Debug\pubss.Resources.resources
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\obj\Debug\pubss.vbproj.GenerateResource.Cache
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\obj\Debug\pubss.exe
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\obj\Debug\pubss.xml
+C:\Users\kmerrick\Documents\Project Applications\replaceCerts\pubss\obj\Debug\pubss.pdb
